@@ -15,6 +15,9 @@
 
 ## 🚀 Featured Projects
 
+### [OpenKyle](https://github.com/kyleparratt-98/openkyle)
+A platform for authoring, assembling, running, and reviewing timed clinical encounters in WebXR: learners face staged patients and clinical staff, faculty review the traces, and a blueprint factory turns reviewed case definitions into scenes, actor behavior, dialogue policy, emotion timelines, and persistence records.
+
 ### [KernelForge](https://github.com/kyleparratt-98/KernelForge)
 Compile tensor operations directly into optimized CUDA PTX kernels — bridging high-level ML frameworks with bare-metal GPU performance.
 
